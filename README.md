@@ -12,13 +12,13 @@ This is a Streamlit app that uses OpenAI language model to generate text from CS
 
 ## Requirements
 
-* Streamlit
+* requirements.txt packages
 * OpenAI's API key
 
 
 ## Installation
 
-1. Install Streamlit: ```pip install streamlit```
+1. Install the required packages: ```pip install -r requirements.txt```
 
 2. Create a .env file in the root directory of this project and add your OpenAI API key to the file. For example:
 OPENAI_API_KEY=YOUR_API_KEY
